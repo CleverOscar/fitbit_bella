@@ -42,10 +42,3 @@ clock.addEventListener("tick", updateClock);
 
 
 
-
-
-// App Js Styles
-
-let analogClock = document.getElementById('analog-clock')
-
-console.log(analogClock)

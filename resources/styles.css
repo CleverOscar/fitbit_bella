@@ -1,7 +1,8 @@
-.background {
-  fill: white;
+.screen { 
+  fill: blue;
 }
 
 #analog-clock {
-  fill: red;
+  width: 50%;
+  height: 50%;
 }
